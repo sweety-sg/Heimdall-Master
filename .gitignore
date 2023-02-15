@@ -1,0 +1,8 @@
+.vscode
+.env
+
+*.pyc
+
+Heimdall/configuration/config.yml
+
+postgres/database.env
